@@ -29,7 +29,7 @@ const Project = () => {
                             <span>Full Backend Project with Help Of Spring Boot</span>
                         </div>
                         <div className="img">
-                            <img src="./4.png" alt="Java Project" height="300px" width="400px" />
+                            <img src="./4.png" alt="Java Project" height="300px" width="300px" />
                         </div>
                         <div className="btn">
                             <button onClick={() => toggleModal('java')} className='btns btn-modal'>See Demo</button>
@@ -42,7 +42,7 @@ const Project = () => {
                             <span>Full Backend Project with Help Of Spring Boot</span>
                         </div>
                         <div className="img">
-                            <img src="./4.png" alt="React Project" height="300px" width="400px" />
+                            <img src="./4.png" alt="React Project" height="300px" width="300px" />
                         </div>
                         <div className="btn">
                             <button onClick={() => toggleModal('react')} className='btns btn-modal'>See Demo</button>
@@ -55,7 +55,7 @@ const Project = () => {
                             <span>Full Backend Project with Help Of Spring Boot</span>
                         </div>
                         <div className="img">
-                            <img src="./4.png" alt="FullStack Project" height="300px" width="400px" />
+                            <img src="./4.png" alt="FullStack Project" height="300px" width="300px" />
                         </div>
                         <div className="btn">
                             <button onClick={() => toggleModal('fullstack')} className='btns btn-modal'>See Demo</button>

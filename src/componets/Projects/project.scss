@@ -33,6 +33,12 @@
             padding: 30px;
             gap: 30px;
 
+            @media (max-width: 780px){
+
+                flex-direction: column;
+
+            }
+
             .box {
                 border: 2px solid black;
                 padding: 20px;
@@ -41,6 +47,10 @@
                 flex-direction: column;
                 align-items: center; 
                 text-align: center; 
+
+                @media (max-width: 780px){
+                    padding: 0 20px;
+                }
                 .tittle {
                     h1 {
                         margin: 0;
